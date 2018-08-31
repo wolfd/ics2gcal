@@ -1,3 +1,11 @@
+### warning: this is more of a personal utility than anything for public consumption
+#### I won't stop you, it's MIT, but it won't necessarily work.
+
+TODO:
+- convert time zones to be from the IANA list from timezones defined in files (defaults every time to guessed current timezone)
+- make sure that login actually works
+- clean everything up, this is the MVPest of MVPs
+
 # ICS to GCal
 Found an interesting event online that comes as an iCal file (`*.ics`) and want to import it into one of your Google calendars? With ICS to GCal this will take just two clicks - no need to open the Google Calendar settings and pollute your list of calendars.
 

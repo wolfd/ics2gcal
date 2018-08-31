@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "chrome-promise": "^2.0.2",
-    "ical.js": "^1.2.2"
+    "ical.js": "^1.2.2",
+    "moment-timezone": "^0.5.21"
   }
 }
